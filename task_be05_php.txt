@@ -1,0 +1,53 @@
+Software Engineering / PHP & Laravel
+BE05 - Object-Oriented Programming in PHP – Classes and Objects
+Description
+Study the following topics:
+• Introduction to Object-Oriented Programming.
+• Difference between procedural and object-oriented programming.
+• Classes and objects.
+• Properties and methods.
+• Constructors and destructors.
+• Access modifiers:
+o Public
+o Private
+o Protected
+• Encapsulation.
+• Getters and setters.
+• $this keyword.
+• Static properties and methods.
+• Class constants.
+• Object instantiation.
+• Basic inheritance.
+• Method overriding.
+
+Instructions
+Understand object-oriented programming and how it helps developers organize complex applications. Learn to create classes, objects, properties, methods, and constructors.
+
+Assignment Details
+Description
+Create a basic Library Management System using PHP classes and objects.
+Assignment Requirements:
+1. Create a Book class with:
+o ID
+o Title
+o Author
+o ISBN
+o Availability status
+2. Create a Member class with:
+o ID
+o Name
+o Email
+o Membership number
+3. Create a Library class to manage books and members.
+4. Implement methods to:
+o Add a book.
+o Display all books.
+o Register a member.
+o Search for a book.
+o Issue a book.
+o Return a book.
+5. Use constructors to initialize objects.
+6. Use private properties where appropriate.
+7. Use getters and setters to access or update private properties.
+8. Use inheritance to create a specialized member type, such as PremiumMember.
+9. Display the available books and issued books.
